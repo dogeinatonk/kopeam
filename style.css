@@ -1,6 +1,4 @@
-body {
-    font-family: sans-serif;
-}
+
 
 .link-header {
     background-color: crimson;
@@ -8,4 +6,22 @@ body {
     padding: 5px 20px ;
     text-decoration: none;
     color: white;
+}
+body {
+    font-family: monospace;
+}
+nav{display: flex;
+justify-content: space-around;
+margin: 10px;
+}
+.link-nav{
+    background: black;
+    text-decoration: none ;
+    color: white;
+    padding: 4px 100px 4px 100px;
+}
+
+a {
+    text-decoration: none;
+    color:black;
 }
