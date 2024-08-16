@@ -25,3 +25,18 @@ a {
     text-decoration: none;
     color:black;
 }
+.tacooo{
+    width: 780px;
+    text-align: center;
+    
+}
+.tacooo img{
+    margin-top: 50px;
+}
+
+
+.tacooo a:hover{
+    font-size: 30px;
+    border: 3px dashed goldenrod;
+    transition: 3s linear;
+}
